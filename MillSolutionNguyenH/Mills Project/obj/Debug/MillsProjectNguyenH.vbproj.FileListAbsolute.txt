@@ -1,0 +1,23 @@
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.exe.config
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.exe
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.pdb
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.xml
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\MillsProjectNguyenH.vbprojAssemblyReference.cache
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\Mills_Project.frmMain.resources
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\Mills_Project.Resources.resources
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\MillsProjectNguyenH.vbproj.GenerateResource.cache
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\Mills Project.exe
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\Mills Project.xml
+C:\Users\Ngoc Hiep\Desktop\cisp 370 spring 2020\MillSolutionNguyenH\Mills Project\obj\Debug\Mills Project.pdb
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.exe.config
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.exe
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.pdb
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\bin\Debug\Mills Project.xml
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\MillsProjectNguyenH.vbprojAssemblyReference.cache
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\Mills_Project.frmMain.resources
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\Mills_Project.Resources.resources
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\MillsProjectNguyenH.vbproj.GenerateResource.cache
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\MillsProjectNguyenH.vbproj.CoreCompileInputs.cache
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\Mills Project.exe
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\Mills Project.xml
+C:\Users\Nincent\Downloads\MillSolutionNguyenH\MillSolutionNguyenH\Mills Project\obj\Debug\Mills Project.pdb

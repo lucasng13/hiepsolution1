@@ -1,0 +1,11 @@
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\bin\Debug\Mills Project.exe.config
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\bin\Debug\Mills Project.exe
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\bin\Debug\Mills Project.pdb
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\bin\Debug\Mills Project.xml
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\Mills_Project.frmMain.resources
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\Mills_Project.Resources.resources
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\MillsProject.vbproj.GenerateResource.Cache
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\MillsProject.vbproj.CoreCompileInputs.cache
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\Mills Project.exe
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\Mills Project.xml
+C:\Users\kshaukat\Documents\ARC Courses\Spring Semesters\Spring 2020\CISP 370\Projects VB2017\P5\Mills Solution\Mills Project\obj\Debug\Mills Project.pdb
